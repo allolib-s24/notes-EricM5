@@ -1,6 +1,6 @@
 
-#Music Composition
-##Piece 1: Pentatonic Roulette
+# Music Composition
+## Piece 1: Pentatonic Roulette
 
 View Video Demo<br/>
 View Repo
@@ -11,7 +11,7 @@ This piece is completely randomly generated and nondeterministic. Pentatonic Rou
 I included a Hi-Hat that I synthesized from my music synthesis project that plays for every beat and provides structure to the piece.
 
 
-##Piece 2: Married Life from "Up"
+## Piece 2: Married Life from "Up"
 
 View Video Demo<br/>
 View Repo
@@ -22,10 +22,10 @@ Composer: Michael Giacchino
 This was my first initial piece that I played from SinEnv Piano on my keyboard.
 
 
-##Piece 3: [Name of midi generated piece]
+## Piece 3: [Name of midi generated piece]
 
 
-#Instrument Synthesis
+# Instrument Synthesis
 
 View Video Demo of Drums Playing Together<br/>
 View Repo
@@ -33,17 +33,17 @@ View Repo
 
 I decided to focus on percussion as I began picking up the drums this academic year. I focused primarily on the bass drum and the Hi-Hat 
 
-##Instrument 1: Hi-Hat
+## Instrument 1: Hi-Hat
 
 View Video Demo<br>
 
-##Instrument 2: Bass Drum
+## Instrument 2: Bass Drum
 
 View Video Demo
 
 
 <br/><br/>
-#Music Theory Tutor
+# Music Theory Tutor
 
 View Video Demo<br/>
 Vuew Repo
