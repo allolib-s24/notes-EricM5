@@ -23,6 +23,17 @@ Composer: Michael Giacchino
 
 This was the first piece I played using SinEnv Piano on my keyboard. The voice used was the default that comes in the SineEnv file. It took some time to learn and perfect, but completing it was ultimately very rewarding.
 
+
+## Piece 3: Prelude and Fugue in C major
+
+[View Video Demo](https://www.youtube.com/watch?v=ED30iDwlX8U&ab_channel=EricMarzouk)<br/>
+[View Generated Synth Sequence](https://github.com/allolib-s24/EricM/blob/master/tutorials/synthesis/bin/SineEnv_Piano-data/bach_no1.synthSequence)
+
+Song Name: Prelude and Fugue in C major<br/>
+Composer: Bach
+
+This was the first piece I played using SinEnv Piano on my keyboard. The voice used was the default that comes in the SineEnv file. It took some time to learn and perfect, but completing it was ultimately very rewarding.
+
 # Instrument Synthesis
 
 View Video Demo of Drums Playing Together<br/>
@@ -43,8 +54,8 @@ View Video Demo
 <br/><br/>
 # Music Theory Tutor
 
-View Video Demo<br/>
-View Repo
+[View Video Demo](https://drive.google.com/file/d/1dybHt8PODsy6Fi9kOQFYpYUXGVToEJ10/view?usp=drive_link)<br/>
+[View Repo](https://github.com/allolib-s24/EricM/blob/master/tutorials/synthesis/musictheory.cpp)
 
 For my final project, I decided to create an application that would help prospective CS190D students learn music theory. Upon coming to class, I saw that some of my fellow classmates did not know the notes of the piano and some other basic music theory that would be helpful in the first task of the class: to create a musical piece.
 
