@@ -2,28 +2,26 @@
 # Music Composition
 ## Piece 1: Pentatonic Roulette
 
-View Video Demo<br/>
-View Repo
+[View Video Demo](https://.com) <br>
+[View Repo](https://github.com/allolib-s24/EricM/blob/master/tutorials/synthesis/PentatonicRoulette.cpp)
 
 
-This piece is completely randomly generated and nondeterministic. Pentatonic Roulette leverages pentatonic scales to ensure great sounding melodies. Every time the program is run, a random beats per minute (bpm) is generated from [60,180]. The number of measures for the piece, which determines it's length,  is also a randomly chosen integer from [8,25]. A random pentatonic scale is then chosen. While the piece is playing, another random integer is generated to determine whether a specific note plays at a given beat (which was determined by the bpm). Each note within the selected penatonic scale has an equal probability of being chosen for a given beat.
+This piece is entirely randomly generated and nondeterministic. Pentatonic Roulette utilizes pentatonic scales to ensure melodious outcomes. Each time the program runs, it generates a random beats per minute (bpm) value between 60 and 180. The number of measures, determining the piece's length, is also randomly selected within the range of 8 to 25. A random pentatonic scale is then chosen. As the piece plays, another random integer determines whether a specific note is played at each beat, based on the generated bpm. Each note within the chosen pentatonic scale has an equal chance of being selected for any given beat.
 
-I included a Hi-Hat that I synthesized from my music synthesis project that plays for every beat and provides structure to the piece.
+I have also incorporated a synthesized hi-hat from my music synthesis project, which plays on every beat to provide structure to the piece.
+
+While playing, the spectrogram visuals are thanks to Grace Feng from her file [interstellar.cpp](https://github.com/allolib-s23/demo-gracefeng05/blob/main/tutorials/synthesis/interstellar.cpp) throughout the course of CMPSC 190D (F23).
 
 
 ## Piece 2: Married Life from "Up"
 
 View Video Demo<br/>
-View Repo
+[View Generated Synth Sequence](https://github.com/allolib-s24/EricM/blob/master/tutorials/synthesis/bin/SineEnv_Piano-data/Married%20Life%202.synthSequence)
 
 Song Name: Married Life<br/>
 Composer: Michael Giacchino
 
-This was my first initial piece that I played from SinEnv Piano on my keyboard.
-
-
-## Piece 3: [Name of midi generated piece]
-
+This was the first piece I played using SinEnv Piano on my keyboard. The voice used was the default that comes in the SineEnv file. It took some time to learn and perfect, but completing it was ultimately very rewarding.
 
 # Instrument Synthesis
 
