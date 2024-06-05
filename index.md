@@ -32,7 +32,7 @@ This was the first piece I played using SinEnv Piano on my keyboard. The voice u
 Song Name: Prelude and Fugue in C major<br/>
 Composer: Bach
 
-This was the first piece I played using SinEnv Piano on my keyboard. The voice used was the default that comes in the SineEnv file. It took some time to learn and perfect, but completing it was ultimately very rewarding.
+I wanted to create a more complex midi Piece and experimented with Mateo's midi converter in python. I found the piece in midi format and then utilitzed this converter to create the generated synth sequence.
 
 # Instrument Synthesis
 
@@ -40,16 +40,22 @@ View Video Demo of Drums Playing Together<br/>
 View Repo
 
 
-I decided to focus on percussion as I began picking up the drums this academic year. I focused primarily on the bass drum and the Hi-Hat 
+I decided to focus on percussion as I began picking up the drums this academic year. I focused primarily on the Kick drum and the Closed Hi-Hat 
 
-## Instrument 1: Hi-Hat
+## Instrument 1: Closed Hi-Hat
 
-View Video Demo<br>
+[View Video Demo]()<br>
+[View Repo]()
 
-## Instrument 2: Bass Drum
+Initially, I was attempting to create a snare drum sound. I started with white noise and then used the envelope to tweak the amplitude of the sound. However, I believe that I created a closed Hi-hat and was very satisfied with how close it sounded to my actual drums at home.
 
-View Video Demo
 
+## Instrument 2: Kick Drum
+
+[View Video Demo]() <br>
+[View Repo]()
+
+For the Kick Drum, I used additive synthesis to create the sound. I started with using a sine wave oscillator which generated the rudimentary wave and then used the frequency parameter in the voice to control that. Then, The amplitude was controlled by the envelope which was multiplied by the <i>amplitude</i> parameter.
 
 <br/><br/>
 # Music Theory Tutor
