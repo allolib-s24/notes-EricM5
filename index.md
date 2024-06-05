@@ -10,12 +10,12 @@ This piece is entirely randomly generated and nondeterministic. Pentatonic Roule
 
 I have also incorporated a synthesized hi-hat from my music synthesis project, which plays on every beat to provide structure to the piece.
 
-While playing, the spectrogram visuals are thanks to Grace Feng from her file [interstellar.cpp](https://github.com/allolib-s23/demo-gracefeng05/blob/main/tutorials/synthesis/interstellar.cpp) throughout the course of CMPSC 190D (F23).
+The spectrogram visuals are thanks to Grace Feng from her file [interstellar.cpp](https://github.com/allolib-s23/demo-gracefeng05/blob/main/tutorials/synthesis/interstellar.cpp) throughout the course of CMPSC 190D (F23).
 
 
 ## Piece 2: Married Life from "Up"
 
-View Video Demo<br/>
+[View Video Demo](https://www.youtube.com/watch?v=jDB0VDm9bJY&ab_channel=EricMarzouk)<br/>
 [View Generated Synth Sequence](https://github.com/allolib-s24/EricM/blob/master/tutorials/synthesis/bin/SineEnv_Piano-data/Married%20Life%202.synthSequence)
 
 Song Name: Married Life<br/>
