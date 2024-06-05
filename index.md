@@ -2,7 +2,7 @@
 # Music Composition
 ## Piece 1: Pentatonic Roulette
 
-[View Video Demo](https://.com) <br>
+[View Video Demo](https://www.youtube.com/watch?v=V5D3VugS19Q) <br>
 [View Repo](https://github.com/allolib-s24/EricM/blob/master/tutorials/synthesis/PentatonicRoulette.cpp)
 
 
