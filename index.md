@@ -36,26 +36,21 @@ I wanted to create a more complex midi Piece and experimented with Mateo's midi 
 
 # Instrument Synthesis
 
-View Video Demo of Drums Playing Together<br/>
-View Repo
+[View Video Demo of Both Playing Together](https://www.youtube.com/watch?v=noniAIq45M8)<br/>
+[View Repo](https://github.com/allolib-s24/EricM/blob/master/tutorials/synthesis/drums.cpp)
 
 
-I decided to focus on percussion as I began picking up the drums this academic year. I focused primarily on the Kick drum and the Closed Hi-Hat 
-
-## Instrument 1: Closed Hi-Hat
-
-[View Video Demo]()<br>
-[View Repo]()
-
-Initially, I was attempting to create a snare drum sound. I started with white noise and then used the envelope to tweak the amplitude of the sound. However, I believe that I created a closed Hi-hat and was very satisfied with how close it sounded to my actual drums at home.
+I decided to focus on percussion as I began picking up the drums this academic year. I focused primarily on the Kick Drum and the Snare.
 
 
-## Instrument 2: Kick Drum
 
-[View Video Demo]() <br>
-[View Repo]()
+## Instrument 1: Kick Drum
 
 For the Kick Drum, I used additive synthesis to create the sound. I started with using a sine wave oscillator which generated the rudimentary wave and then used the frequency parameter in the voice to control that. Then, The amplitude was controlled by the envelope which was multiplied by the <i>amplitude</i> parameter.
+
+## Instrument 2: Snare
+
+To create the snare sound, I started with white noise and then used the envelope to tweak the amplitude of the sound.
 
 <br/><br/>
 # Music Theory Tutor
