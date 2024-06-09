@@ -92,8 +92,20 @@ Gives the user a background on how to create minor triads in general.
 
 #### Display and Play Minor Triads!
 
-The user can select between 12 different notes from where the minor triad starts. After, the user can attempt to play those notes. In this mode, the user has full access to the piano at any time and can reference how to play a specific one of these triads by holding down the corresponding key displayed above the piano to display the triad. Then the user can emulate it and learn minor triads!
+In this functionality, the system offers an interface for the user to select from 12 unique notes, which act as the commencement point for a minor triad. Following the selection, the user is enabled to play the associated notes. The system operates in a mode that provides the user with unrestricted access to the piano interface at all times.
 
+For assistance on playing a particular triad, the user can press and hold the key that corresponds to the one indicated above the piano interface. This action prompts the system to exhibit the chosen triad. The user can then mimic the displayed triad, thereby facilitating the learning of minor triads.
 #### Display and Play Major Triads!
 
-The user can select between 12 different notes from where the major triad starts. After, the user can attempt to play those notes. In this mode, the user has full access to the piano at any time and can reference how to play a specific one of these triads by holding down the corresponding key displayed above the piano to display the triad. Then the user can emulate it and learn minor triads!
+In this feature, the system provides an interface for the user to choose from 12 distinct notes, which serve as the starting point for a major triad. Once a note is selected, the user can proceed to play the corresponding notes. The system operates in a mode that grants the user unrestricted access to the piano interface at all times.
+
+For guidance on playing a specific triad, the user can hold down the key that matches the one shown above the piano interface. This action triggers the system to display the selected triad. The user can then replicate the displayed triad, providing a learning opportunity for understanding minor triads.
+### Game Mode 3: Learn Intervals
+
+This feature is currently under development. The system will display a note above the piano interface, and the user is required to select the corresponding key for one of the following intervals: major 2nd, major 3rd, perfect fourth, perfect fifth, major sixth, or perfect eighth.
+
+A practice mode is incorporated to assist users in rehearsing these distinct intervals. Following the practice, users can evaluate their proficiency in the test mode.
+
+### Game Mode 4: Free Play
+
+In this feature, the system provides an open-ended interface where the user is allowed to freely interact with the piano. This enables the user to create melodies and practice what they've learned.
